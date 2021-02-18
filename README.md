@@ -3,13 +3,13 @@ This is my solution to a Coursework for our Cloud Computing Module.
 
 # Task
 Cloud Computing Coursework
-1. Development of a Cloud Software as a Service
+# 1. Development of a Cloud Software as a Service
 The goal of the coursework is to make you apply the concepts and software development methods and
 frameworks seen in class in order to develop a Cloud Software as a Service (SaaS). The coursework requires
 you to install, develop and test a Cloud SaaS in a virtualized environment according to the guidelines
 described in this document. You should upload your final scripts and a technical report to describe the
 functionality of your solution following the guidelines of the coursework brief document.
-2. Online auctioning system.
+# 2. Online auctioning system.
 Your task is to develop a RESTful SaaS for an auctioning system where users sell items while other users bid
 for these items. You should install, test and document your developments as described in Section 3. Your
 software should support the following Actions.
@@ -23,7 +23,7 @@ You are advised to use the Django RESTful API framework to develop your software
 use code samples from the lab tutorials and online sources by providing the appropriate references (in text
 and in code). You are encouraged to improvise providing clear descriptions of your functionality and your
 implementation decisions.
-3. Coursework phases
+# 3. Coursework phases
 Phase A: Install and deploy software in virtualized environments [10 marks]
 • Install all the necessary packages in your virtual machine.
 • Deploy your backend code in the virtual machine (code scripts of Phase B and C).
